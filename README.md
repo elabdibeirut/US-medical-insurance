@@ -1,6 +1,5 @@
 # Medical Insurance Data Analysis
 
-![Medical Insurance](medical_insurance.jpg)
 
 ## Overview
 
